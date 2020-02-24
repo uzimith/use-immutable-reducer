@@ -1,0 +1,27 @@
+{
+    "name": "use-immutable-reducer",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/uzimith/use-immutable-reducer.git"
+    },
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/uzimith/use-immutable-reducer/issues"
+    },
+    "homepage": "https://github.com/uzimith/use-immutable-reducer#readme",
+    "devDependencies": {
+        "@testing-library/react-hooks": "^3.2.1",
+        "jest": "^25.1.0",
+        "react-test-renderer": "^16.12.0"
+    },
+    "dependencies": {
+        "react": "^16.12.0"
+    }
+}
